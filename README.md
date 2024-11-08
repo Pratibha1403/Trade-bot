@@ -1,1 +1,1 @@
-Assignment by persist ventures
+Trading bot using coindcx api
